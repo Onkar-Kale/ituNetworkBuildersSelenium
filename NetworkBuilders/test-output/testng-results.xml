@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="33194" started-at="2015-11-02T07:48:47Z" finished-at="2015-11-02T07:49:20Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="33194" started-at="2015-11-02T07:48:47Z" finished-at="2015-11-02T07:49:20Z">
+      <class name="ituSelenium.NetworkBuilders.LoginTests">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:ituSelenium.NetworkBuilders.LoginTests@58ceff1]" name="initDriver" is-config="true" duration-ms="1530" started-at="2015-11-01T23:48:45Z" finished-at="2015-11-01T23:48:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:ituSelenium.NetworkBuilders.LoginTests@58ceff1]" name="launchBrowser" is-config="true" duration-ms="1322" started-at="2015-11-01T23:48:47Z" finished-at="2015-11-01T23:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyAdminRole()[pri:0, instance:ituSelenium.NetworkBuilders.LoginTests@58ceff1]" name="verifyAdminRole" duration-ms="4" started-at="2015-11-01T23:48:48Z" finished-at="2015-11-01T23:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAdminRole -->
+        <test-method status="PASS" signature="verifyAlumniRole()[pri:0, instance:ituSelenium.NetworkBuilders.LoginTests@58ceff1]" name="verifyAlumniRole" duration-ms="1" started-at="2015-11-01T23:48:48Z" finished-at="2015-11-01T23:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAlumniRole -->
+        <test-method status="PASS" signature="verifyHomepageTitle()[pri:0, instance:ituSelenium.NetworkBuilders.LoginTests@58ceff1]" name="verifyHomepageTitle" duration-ms="7" started-at="2015-11-01T23:48:48Z" finished-at="2015-11-01T23:48:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomepageTitle -->
+        <test-method status="PASS" signature="verifyStudentRole()[pri:0, instance:ituSelenium.NetworkBuilders.LoginTests@58ceff1]" name="verifyStudentRole" duration-ms="31845" started-at="2015-11-01T23:48:48Z" finished-at="2015-11-01T23:49:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyStudentRole -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:ituSelenium.NetworkBuilders.LoginTests@58ceff1]" name="quitDriver" is-config="true" duration-ms="563" started-at="2015-11-01T23:49:20Z" finished-at="2015-11-01T23:49:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- ituSelenium.NetworkBuilders.LoginTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

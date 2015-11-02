@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ituSelenium.NetworkBuilders.loginClass&apos; to &apos;LoginClass0&apos;&#x0A;- Original project: &apos;NetworkBuilders&apos;&#x0A;- Original element: &apos;ituSelenium.NetworkBuilders.loginClass&apos;&#x0A;- Renamed element: &apos;ituSelenium.NetworkBuilders.LoginClass0&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;loginClass&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;ituSelenium.NetworkBuilders{loginClass.java[loginClass" matchStrategy="1" name="LoginClass0" qualified="false" references="true" similarDeclarations="false" stamp="1445313458113" textual="false" version="1.0"/>
+</session>

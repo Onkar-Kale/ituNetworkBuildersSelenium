@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [NetworkBuiders]">
+  <parameter name="browser" value="firefox"/>
+  <parameter name="driverPath" value="/Library/chromedriver"/>
+  <test name="TestNgSeleniumFirefoxTest(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="ituSelenium.NetworkBuilders.LoginTests">
+        <methods>
+          <include name="initDriver"/>
+          <include name="initDriver"/>
+          <include name="verifyHomepageTitle"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- ituSelenium.NetworkBuilders.LoginTests -->
+    </classes>
+  </test> <!-- TestNgSeleniumFirefoxTest(failed) -->
+</suite> <!-- Failed suite [NetworkBuiders] -->
